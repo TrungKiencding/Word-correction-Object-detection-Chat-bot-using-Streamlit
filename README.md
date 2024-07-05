@@ -1,4 +1,4 @@
-# Word correction, Object detection with DNN and Chat box with Hugging face deploy on Streamlit
+# Word correction, Object detection with DNN and Chat bot with Hugging face deploy on Streamlit
 
 This project deploys 3 basic applications:
 - Word correction with leveinhstein distance
